@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tutors246.wixsite.com	TRUE	/technation	FALSE	1999999999	svSession	be96adddbb34de40f42de17aca932ec658bcf77b5ce5a63b25985e48287f72dea8e21e63a9f7cd4e3c1c459d0b9452b21e60994d53964e647acf431e4f798bcd0c19b753ae4241bb40ba62e9f1997fc2b4f4540b8824b1220c2d58d5b7f93ece
+tutors246.wixsite.com	TRUE	/	FALSE	1999999999	hs	1726409749
+.wix.com	TRUE	/	FALSE	1999999999	_wixAB3	24921#2|24961#2
+.wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	c7c1880e-3be6-4ed7-8540-043d070d086c
+
